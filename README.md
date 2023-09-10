@@ -24,15 +24,20 @@ Flatpack: https://flathub.org/apps/com.github.AmatCoder.mednaffe
 
 ### Configuração
 
+#### Game list
+
+Clique em `Add folder` e selecione a pasta que contém a rom
+
 #### Global Setting - Netplay
 
 **Server hostname** http://omednafenbr.duckdns.org/
 
 ### Comandos
 
-- Conectar: 
+Após abrir uma rom, tecle `T`, depois digite o comando no console
+
+- Conectar:
 ```/server```
 
-- Listar jogadores conectados
-
+- Listar jogadores conectados:
 ```/list```
