@@ -14,7 +14,7 @@ Escolha um diretório ou pasta e extraia os arquivos
 
 https://github.com/AmatCoder/mednaffe/releases
 
-Extraia e copie o conteúdo na mesma pasta qeu está o Mednafen
+Extraia e copie o conteúdo na mesma pasta que está o Mednafen
 
 ## Instalar em Linux (Ubuntu) : 
 
